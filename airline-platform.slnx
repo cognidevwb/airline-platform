@@ -1,0 +1,21 @@
+<Solution>
+  <Project Path="building-blocks/src/Caching/Griffin.Caching.csproj" />
+  <Project Path="building-blocks/src/Core/Griffin.Core.csproj" />
+  <Project Path="building-blocks/src/EFCore/Griffin.EFCore.csproj" />
+  <Project Path="building-blocks/src/EventStoreDB/Griffin.EventStoreDB.csproj" />
+  <Project Path="building-blocks/src/HealthCheck/Griffin.HealthCheck.csproj" />
+  <Project Path="building-blocks/src/Jwt/Griffin.Jwt.csproj" />
+  <Project Path="building-blocks/src/Log/Griffin.Log.csproj" />
+  <Project Path="building-blocks/src/Mapster/Griffin.Mapster.csproj" />
+  <Project Path="building-blocks/src/Mongo/Griffin.Mongo.csproj" />
+  <Project Path="building-blocks/src/OpenApi/Griffin.OpenApi.csproj" />
+  <Project Path="building-blocks/src/OpenTelemetryCollector/Griffin.OpenTelemetryCollector.csproj" />
+  <Project Path="building-blocks/src/Polly/Griffin.Polly.csproj" />
+  <Project Path="building-blocks/src/ProblemDetails/Griffin.ProblemDetails.csproj" />
+  <Project Path="building-blocks/src/TestBase/Griffin.TestBase.csproj" />
+  <Project Path="building-blocks/src/Utils/Griffin.Utils.csproj" />
+  <Project Path="building-blocks/src/Validation/Griffin.Validation.csproj" />
+  <Project Path="building-blocks/src/Web/Griffin.Web.csproj" />
+  <Project Path="building-blocks/src/Wolverine/Griffin.Wolverine.csproj" />
+  <Project Path="service-defaults/ServiceDefaults.csproj" />
+</Solution>
